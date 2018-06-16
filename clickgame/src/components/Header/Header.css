@@ -1,0 +1,22 @@
+.Header{
+    position: fixed;
+    height: 150px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.466);
+    opacity: 50%;
+    z-index: 999;
+}
+
+.Clicker {
+    float: left;
+    padding-top: 50px;
+    padding-left: 50px;
+    size: 150px;
+}
+
+.Score {
+    float: right;
+    padding-top: 50px;
+    padding-right: 50px;
+    size: 150px;
+}
