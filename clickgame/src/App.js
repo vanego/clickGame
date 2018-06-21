@@ -3,17 +3,8 @@ import React, { Component } from "react";
 // import Search from "./pages/Search";
 import Header from "./components/Header/Header";
 import Directions from "./components/Directions/Directions";
-import Furniture from "./components/Furniture/Furniture";
-import Card from "./components/cards.json";
-// const App = () => (
-//   <Router>
-//     <div>
-//       <Header />
-//       <Directions />
-//       <Furniture />
-//     </div>
-//   </Router>
-// );
+import FurnitureCards from "./components/Furniture/Furniture";
+
 
 class App extends Component {
   render() {
@@ -24,7 +15,7 @@ class App extends Component {
         <div className="container">
           <Directions />
           <div className="container">
-            <Furniture />
+            <FurnitureCards />
 
             {/* //shuffle cards in array
             shuffleCards = array => {

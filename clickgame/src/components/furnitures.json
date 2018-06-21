@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "armChair",
+        "image": "https://cdn-images.article.com/products/SKU2581/2890x1500/image23680.jpg?fit=max&w=1366&q=50&dpr=1",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "bed",
+        "image": "https://cdn-images.article.com/products/SKU516/2890x1500/image19307.jpg?fit=max&w=1366&q=50&dpr=1",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "console",
+        "image": "https://cdn-images.article.com/products/SKU423/2890x1500/image16109.jpg?fit=max&w=1366&q=50&dpr=1",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "desk",
+        "image": "https://cdn-images.article.com/products/SKU3460/2890x1500/image32214.jpg?fit=max&w=1366&q=50&dpr=1",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "greenChair",
+        "image": "https://cdn-images.article.com/products/SKU354B/2890x1500/image23031.jpg?fit=max&w=1366&q=50&dpr=1",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "shelf",
+        "image": "https://cdn-images.article.com/products/SKU374A/2890x1500/image14044.jpg?fit=max&w=1366&q=50&dpr=1",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "console2",
+        "image": "https://cdn-images.article.com/products/SKU3457/2890x1500/image29868.jpg?fit=max&w=1366&q=50&dpr=1",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "rug",
+        "image": "https://cdn-images.article.com/products/SKU3891/2890x1500/image31592.jpg?fit=max&w=1366&q=50&dpr=1",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "nightstand",
+        "image": "https://cdn-images.article.com/products/SKU518/2890x1500/image19474.jpg?fit=max&w=1366&q=50&dpr=1",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "yellowChair",
+        "image": "https://cdn-images.article.com/products/SKU2237/2890x1500/image34776.jpg?fit=max&w=1366&q=50&dpr=1",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "shelf2",
+        "image": "https://cdn-images.article.com/products/SKU457A/2890x1500/image18084.jpg?fit=max&w=1366&q=50&dpr=1",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "silla",
+        "image": "https://cdn-images.article.com/products/SKU3792/2890x1500/image31080.jpg?fit=max&w=1366&q=50&dpr=1",
+        "clicked": false
+    }
+]

@@ -1,3 +1,16 @@
 .furnitureDiv{
+    width: 90%;
     height: 1200px;
+    margin-bottom: 150px;
+}
+
+.card-img-top{
+    width: 200px;
+    /* border: 2px solid #FF0074; */
+    margin-top: 50px;
+    vertical-align: middle;
+}
+
+.card{
+    float:left;
 }
